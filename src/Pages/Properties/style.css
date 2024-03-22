@@ -1,0 +1,21 @@
+.sticky-top {
+    top: 80px;
+}
+
+.searchBox .search-star {
+    top: 11px;
+}
+
+.searchBox .search-star svg {
+    width: 24px;
+    height: 24px;
+}
+
+.searchBox .form-control {
+    height: 50px;
+    padding-right: 30px;
+}
+
+.searchBox .btn {
+    height: 46px;
+}
